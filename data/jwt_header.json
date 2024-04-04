@@ -1,0 +1,5 @@
+{
+    "typ": "JWT",
+    "alg": "RS256",
+    "kid": "3CLfK9hv2MYemEvAjgzQekOEGFVPDEjxSt1WZgMI68E"
+}
